@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="resources/img/logo.png" alt="bash-lba" width="200">
+</p>
+
 <h1 align="center">LBA — Logical Bash Aliases</h1>
 
 <p align="center">A curated set of short, memorable bash aliases organized by category.</p>
